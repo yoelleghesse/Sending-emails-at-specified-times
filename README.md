@@ -1,0 +1,1 @@
+The Scheduled Email Sender is a Python script that sends emails at a specific time of the day using the yagmail library. It continuously checks the current time and sends an email when the specified time condition is met.
